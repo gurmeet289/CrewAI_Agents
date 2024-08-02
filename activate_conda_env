@@ -1,2 +1,2 @@
-conda activate H:\IneuronMasteringGenAI,Llamaindex\23June2024\Agents\venvagents
+conda activate env
 python==3.10

@@ -1,2 +1,4 @@
+## My Helpful Commands
 conda activate env
+## Python version used
 python==3.10
